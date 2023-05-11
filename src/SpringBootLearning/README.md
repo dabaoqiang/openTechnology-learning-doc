@@ -12,5 +12,6 @@ category:
 
 1. SpringBoot
 2. SpringBoot自动组装
+3. SPI机制
 
 :::
