@@ -4,14 +4,14 @@ export const zhSidebar = sidebar({
 
     "/java/": [
         "",
-        // {
-        //     icon: "code",
-        //     text: "java",
-        //     prefix: "/",
-        //     link: "/",
-        //     collapsible: true,
-        //     children: "structure",
-        // },
+        {
+            icon: "leaf",
+            text: "Design-Patterns",
+            prefix: "Design-Patterns/",
+            link: "Design-Patterns/",
+            collapsible: true,
+            children: "structure",
+        },
     ],
 
     "/SpringBootLearning/": [
