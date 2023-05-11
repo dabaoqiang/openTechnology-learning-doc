@@ -11,5 +11,6 @@ category:
 ::: info
 
 1. SpringBoot
+2. SpringBoot自动组装
 
 :::
