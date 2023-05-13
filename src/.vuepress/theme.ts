@@ -27,7 +27,7 @@ export default hopeTheme({
 
   logo: "/coffee.svg",
     
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "https://github.com/dabaoqiang/openTechnology-learning-doc.git",
 
   docsDir: "/",
 
