@@ -12,6 +12,14 @@ export const zhSidebar = sidebar({
             collapsible: true,
             children: "structure",
         },
+        {
+            icon: "build",
+            text: "System-Design",
+            prefix: "System-Design/",
+            link: "System-Design/",
+            collapsible: true,
+            children: "structure",
+        },
     ],
 
     "/SpringBootLearning/": [
