@@ -13,6 +13,14 @@ export const zhSidebar = sidebar({
             children: "structure",
         },
         {
+            icon: "read",
+            text: "Java-Base",
+            prefix: "Java-Base/",
+            link: "Java-Base/",
+            collapsible: true,
+            children: "structure",
+        },
+        {
             icon: "build",
             text: "System-Design",
             prefix: "System-Design/",
@@ -24,14 +32,30 @@ export const zhSidebar = sidebar({
 
     "/SpringBootLearning/": [
         "",
-        // {
-        //     icon: "code",
-        //     text: "SpringBootLearning",
-        //     prefix: "/",
-        //     link: "/",
-        //     collapsible: true,
-        //     children: "structure",
-        // },
+        {
+            icon: "build",
+            text: "Spring-Boot-Tutorial",
+            prefix: "Spring-Boot-Tutorial/",
+            link: "Spring-Boot-Tutorial/",
+            collapsible: true,
+            children: "structure",
+        },
+        {
+            icon: "read",
+            text: "Spring-Security-Tutorial",
+            prefix: "Spring-Security-Tutorial/",
+            link: "Spring-Security-Tutorial/",
+            collapsible: true,
+            children: "structure",
+        },
+        {
+            icon: "leaf",
+            text: "Spring-Resource",
+            prefix: "Spring-Resource/",
+            link: "Spring-Resource/",
+            collapsible: true,
+            children: "structure",
+        },
     ],
 
     "/SpringCloudLearning/": [

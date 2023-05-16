@@ -9,16 +9,12 @@ category:
 ## 目录
 
 ::: info
-### 基础
-+ Spring IOC
-+ Spring DI
-+ Spring AOP
-+ Spring MVC
-+ Spring transaction
 
-### 进阶
-+ SpringBoot
-+ SpringBoot自动组装
-+ SPI机制
+### Spring Boot 
+
++ SpringBoot项目实战
++ SpringBoot & Security 集成
++ Spring & SpringBoot源码解析
++ 实战集成
 
 :::
