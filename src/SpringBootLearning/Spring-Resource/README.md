@@ -26,4 +26,7 @@ category:
 + 深入学习Spring Boot自动装配
 + 深入学习Spring Boot中的SpringApplication
 
+## 参考
+[https://github.com/spring-projects](https://github.com/spring-projects)
+> 源码解析参考官网
 :::
