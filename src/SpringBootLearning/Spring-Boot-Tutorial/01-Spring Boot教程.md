@@ -117,3 +117,6 @@ public class HelloWorldController {
 
 ## 项目地址
 [https://github.com/dabaoqiang/openTechnology-learning.git](https://github.com/dabaoqiang/openTechnology-learning.git)
+
+<div align=left>
+<img src="/banner/qrcode_for_xq_258.jpg"><br></div>
