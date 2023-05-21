@@ -1,12 +1,12 @@
 ---
-title: Spring Boot集成Mybatis生成代码及分页
+title: 集成Mybatis生成代码&分页
 icon: note
 category:
 - Spring Boot
 
 ---
 
-# Spring Boot集成Mybatis生成代码及分页
+# 集成Mybatis生成代码&分页
 
 >生成ORM映射文件工具类`mybatis-generator-core`，解放研发人员的双手。
 >
