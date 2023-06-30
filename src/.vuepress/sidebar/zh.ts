@@ -60,14 +60,15 @@ export const zhSidebar = sidebar({
 
     "/SpringCloudLearning/": [
         "",
-        // {
-        //     icon: "code",
-        //     text: "SpringCloudLearning",
-        //     prefix: "/",
-        //     link: "/",
-        //     collapsible: true,
-        //     children: "structure",
-        // },
+
+        {
+            icon: "build",
+            text: "Spring Cloud",
+            prefix: "Spring Cloud/",
+            link: "Spring Cloud/",
+            collapsible: true,
+            children: "structure",
+        },
     ],
 
 

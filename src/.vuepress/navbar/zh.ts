@@ -7,7 +7,7 @@ export const zhNavbar = navbar([
 
   { text: "SpringBoot学习教程", icon: "discover", link: "/SpringBootLearning/README.md" },
 
-  { text: "SpringCloud学习教程", icon: "discover", link: "/SpringCloudLearning/README.md" },
+  { text: "SpringCloud学习教程", icon: "discover", link: "/SpringCloudLearning/" },
 
   { text: "SpringCloudAlibaba学习教程", icon: "code", link: "/SpringCloudAlibabaLearning/README.md" },
 
